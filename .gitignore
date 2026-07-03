@@ -1,0 +1,14 @@
+.vscode-server/
+.cache/
+.local/
+.ssh/
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.wget-hsts
+venv/
+**/venv/
+__pycache__/
+*.pyc
+*.db
